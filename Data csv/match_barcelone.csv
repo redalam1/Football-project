@@ -1,0 +1,54 @@
+Match_date,Time,Opponent,Competition,Round,Day,Venue,Result,Goals_for,Goals_against,Captain_firstname,Captain_lastname,Possession,Formation,Opponent_formation,Attendance,Referee
+13/08/2023,21:30,Getafe,La Liga,Matchweek 1,Sun,Away,D,0,0,Marc-André,ter Stegen,74,4-2-3-1,4-5-1,"13,410",César Soto
+20/08/2023,19:30,Cádiz,La Liga,Matchweek 2,Sun,Home,W,2,0,Marc-André,ter Stegen,74,3-4-3,4-4-2,"39,603",Alejandro Muñíz
+27/08/2023,17:30,Villarreal,La Liga,Matchweek 3,Sun,Away,W,4,3,Sergi,Roberto,60,4-3-3,4-4-2,"21,679",Alejandro Hernández
+03/09/2023,21:00,Osasuna,La Liga,Matchweek 4,Sun,Away,W,2,1,Sergi,Roberto,69,4-3-3,4-1-4-1,"21,966",Miguel Ángel Ortiz Arias
+16/09/2023,21:00,Betis,La Liga,Matchweek 5,Sat,Home,W,5,0,Marc-André,ter Stegen,65,4-3-3,4-2-3-1,"45,055",José Sánchez
+19/09/2023,21:00,be Antwerp,Champions Lg,Group stage,Tue,Home,W,5,0,Marc-André,ter Stegen,70,4-3-3,4-2-3-1,"40,989",Radu Petrescu
+23/09/2023,18:30,Celta Vigo,La Liga,Matchweek 6,Sat,Home,W,3,2,Marc-André,ter Stegen,74,4-3-3,5-3-2,"43,272",Mario Melero
+26/09/2023,21:30,Mallorca,La Liga,Matchweek 7,Tue,Away,D,2,2,Marc-André,ter Stegen,69,4-3-3,5-3-2,"19,939",Alejandro Muñíz
+29/09/2023,21:00,Sevilla,La Liga,Matchweek 8,Fri,Home,W,1,0,Marc-André,ter Stegen,58,4-3-3,4-2-3-1,"41,116",Miguel Ángel Ortiz Arias
+04/10/2023,20:00,pt Porto,Champions Lg,Group stage,Wed,Away,W,1,0,Marc-André,ter Stegen,56,4-3-3,4-4-2,"49,722",Anthony Taylor
+08/10/2023,21:00,Granada,La Liga,Matchweek 9,Sun,Away,D,2,2,Marc-André,ter Stegen,80,4-3-3,5-4-1,"20,354",César Soto
+22/10/2023,21:00,Athletic Club,La Liga,Matchweek 10,Sun,Home,W,1,0,Marc-André,ter Stegen,62,4-3-3,4-2-3-1,"38,194",Juan Martínez
+25/10/2023,18:45,ua Shakhtar,Champions Lg,Group stage,Wed,Home,W,2,1,Marc-André,ter Stegen,54,4-3-3,4-2-3-1,"41,409",Ivan Kružliak
+28/10/2023,16:15,Real Madrid,La Liga,Matchweek 11,Sat,Home,L,1,2,Marc-André,ter Stegen,53,3-4-1-2,4-1-3-2,"50,112",Jesús Gil
+04/11/2023,21:00,Real Sociedad,La Liga,Matchweek 12,Sat,Away,W,1,0,Marc-André,ter Stegen,49,3-4-1-2,4-3-3,"37,555",Javier Alberola
+07/11/2023,19:45,ua Shakhtar,Champions Lg,Group stage,Tue,Away,L,0,1,Marc-André,ter Stegen,67,4-3-3,4-1-4-1,"49,147",Irfan Peljto
+12/11/2023,16:15,Alavés,La Liga,Matchweek 13,Sun,Home,W,2,1,Marc-André,ter Stegen,71,4-2-3-1,5-4-1,"38,183",Mateo Busquets
+25/11/2023,14:00,Rayo Vallecano,La Liga,Matchweek 14,Sat,Away,D,1,1,Frenkie,de Jong,67,4-2-3-1,4-4-2,"14,148",José Luis Munuera
+28/11/2023,21:00,pt Porto,Champions Lg,Group stage,Tue,Home,W,2,1,Ronald,Araújo,54,4-3-3,4-4-2,"43,533",Daniele Orsato
+03/12/2023,21:00,Atlético Madrid,La Liga,Matchweek 15,Sun,Home,W,1,0,Ronald,Araújo,58,4-3-3,5-3-2,"34,568",José Sánchez
+10/12/2023,21:00,Girona,La Liga,Matchweek 16,Sun,Home,L,2,4,Ronald,Araújo,54,4-3-3,3-4-3,"42,848",Isidro Díaz de Mera
+13/12/2023,21:00,be Antwerp,Champions Lg,Group stage,Wed,Away,L,2,3,Sergi,Roberto,69,4-3-3,4-5-1,"13,550",Marco Guida
+16/12/2023,21:00,Valencia,La Liga,Matchweek 17,Sat,Away,D,1,1,Ronald,Araújo,63,4-3-3,4-4-2,"46,492",Miguel Ángel Ortiz Arias
+20/12/2023,19:00,Almería,La Liga,Matchweek 18,Wed,Home,W,3,2,Sergi,Roberto,65,4-3-3,5-3-2,"34,471",Guillermo Cuadra
+04/01/2024,20:30,Las Palmas,La Liga,Matchweek 19,Thu,Away,W,2,1,Sergi,Roberto,56,4-3-3,4-3-3,"31,712",Pablo González
+07/01/2024,21:00,Barbastro,Copa del Rey,Round of 32,Sun,Away,W,3,2,Ronald,Araújo,72,4-3-3,5-4-1,"6,000",Juan Pulido
+11/01/2024,22:00,Osasuna,Supercopa de España,Semi-finals,Thu,Home,W,2,0,Sergi,Roberto,68,4-3-3,5-3-2,"23,932",Alejandro Muñíz
+14/01/2024,22:00,Real Madrid,Supercopa de España,Final,Sun,Away,L,1,4,Sergi,Roberto,57,4-2-3-1,4-3-1-2,"23,977",Juan Martínez
+18/01/2024,19:30,Unionistas Sal,Copa del Rey,Round of 16,Thu,Away,W,3,1,Sergi,Roberto,74,4-3-3,4-4-2,"6,246",Francisco Hernández
+21/01/2024,18:30,Betis,La Liga,Matchweek 21,Sun,Away,W,4,2,Ronald,Araújo,63,4-3-3,4-2-3-1,"53,288",Jesús Gil
+24/01/2024,21:30,Athletic Club,Copa del Rey,Quarter-finals,Wed,Away,L,2,4,Ronald,Araújo,61,4-3-3,4-2-3-1,"50,403",José Sánchez
+27/01/2024,18:30,Villarreal,La Liga,Matchweek 22,Sat,Home,L,3,5,Ronald,Araújo,70,4-3-3,4-4-2,"46,229",José Luis Munuera
+31/01/2024,19:00,Osasuna,La Liga,Matchweek 20,Wed,Home,W,1,0,Ronald,Araújo,68,4-3-3,5-3-2,"37,888",Jorge Figueroa
+03/02/2024,18:30,Alavés,La Liga,Matchweek 23,Sat,Away,W,3,1,Ronald,Araújo,64,4-3-3,4-2-3-1,"19,480",Juan Martínez
+11/02/2024,21:00,Granada,La Liga,Matchweek 24,Sun,Home,D,3,3,Marc-André,ter Stegen,65,4-3-3,4-1-4-1,"41,901",Miguel Ángel Ortiz Arias
+17/02/2024,18:30,Celta Vigo,La Liga,Matchweek 25,Sat,Away,W,2,1,Marc-André,ter Stegen,66,4-3-3,4-4-2,"23,096",Juan Pulido
+21/02/2024,21:00,it Napoli,Champions Lg,Round of 16,Wed,Away,D,1,1,Marc-André,ter Stegen,50,4-3-3,4-3-3,"49,529",Felix Zwayer
+24/02/2024,16:15,Getafe,La Liga,Matchweek 26,Sat,Home,W,4,0,Marc-André,ter Stegen,67,4-3-3,4-5-1,"36,803",Alejandro Muñíz
+03/03/2024,21:00,Athletic Club,La Liga,Matchweek 27,Sun,Away,D,0,0,Marc-André,ter Stegen,60,4-3-3,4-2-3-1,"50,295",Alejandro Hernández
+08/03/2024,21:00,Mallorca,La Liga,Matchweek 28,Fri,Home,W,1,0,Marc-André,ter Stegen,63,4-3-3,5-3-2,"38,225",Javier Villanueva
+12/03/2024,21:00,it Napoli,Champions Lg,Round of 16,Tue,Home,W,3,1,Marc-André,ter Stegen,48,4-3-3,4-3-3,"50,301",Danny Makkelie
+17/03/2024,21:00,Atlético Madrid,La Liga,Matchweek 29,Sun,Away,W,3,0,Sergi,Roberto,59,4-3-3,3-4-3,"68,253",José Sánchez
+30/03/2024,21:00,Las Palmas,La Liga,Matchweek 30,Sat,Home,W,1,0,Sergi,Roberto,69,4-3-3,4-5-1,"46,788",Mateo Busquets
+10/04/2024,21:00,fr Paris S-G,Champions Lg,Quarter-finals,Wed,Away,W,3,2,Sergi,Roberto,41,4-3-3,4-3-3,"47,470",Anthony Taylor
+13/04/2024,21:00,Cádiz,La Liga,Matchweek 31,Sat,Away,W,1,0,Sergi,Roberto,62,4-3-3,4-4-2,"19,607",Juan Pulido
+16/04/2024,21:00,fr Paris S-G,Champions Lg,Quarter-finals,Tue,Home,L,1,4,Marc-André,ter Stegen,33,4-3-3,4-3-3,"50,309",István Kovács
+21/04/2024,21:00,Real Madrid,La Liga,Matchweek 32,Sun,Away,L,2,3,Marc-André,ter Stegen,53,4-3-3,4-1-2-1-2,"77,981",César Soto
+29/04/2024,21:00,Valencia,La Liga,Matchweek 33,Mon,Home,W,4,2,Marc-André,ter Stegen,80,4-3-3,4-4-2,"30,167",Ricardo de Burgos
+04/05/2024,18:30,Girona,La Liga,Matchweek 34,Sat,Away,L,2,4,Sergi,Roberto,60,4-3-3,4-2-3-1,"14,090",Alejandro Hernández
+13/05/2024,21:00,Real Sociedad,La Liga,Matchweek 35,Mon,Home,W,2,0,Marc-André,ter Stegen,56,4-3-3,3-4-3,"35,829",Guillermo Cuadra
+16/05/2024,21:30,Almería,La Liga,Matchweek 36,Thu,Away,W,2,0,Sergi,Roberto,64,4-3-3,4-2-3-1,"15,543",Javier Alberola
+19/05/2024,19:00,Rayo Vallecano,La Liga,Matchweek 37,Sun,Home,W,3,0,Sergi,Roberto,72,4-2-3-1,4-1-4-1,"35,823",Jesús Gil
+26/05/2024,21:00,Sevilla,La Liga,Matchweek 38,Sun,Away,W,2,1,Marc-André,ter Stegen,61,4-3-3,3-4-3,"34,888",Javier Villanueva
