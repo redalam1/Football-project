@@ -1,0 +1,573 @@
+Match_date,Firstname,Lastname,Rating
+26/05/2024,M.,ter Stegen,7.8
+26/05/2024,João,Cancelo,7.3
+26/05/2024,Iñigo,Martínez,5.7
+26/05/2024,Pau,Cubarsí,6.1
+26/05/2024,J.,Koundé,5.3
+26/05/2024,İ.,Gündoğan,6.9
+26/05/2024,A.,Christensen,6.5
+26/05/2024,Pedri,Pedri,6.5
+26/05/2024,Fermín,López,7.2
+26/05/2024,R.,Lewandowski,7.3
+26/05/2024,Lamine,Yamal,6.1
+19/05/2024,M.,ter Stegen,7.7
+19/05/2024,J.,Koundé,6.1
+19/05/2024,Pau,Cubarsí,5.8
+19/05/2024,Iñigo,Martínez,6.7
+19/05/2024,João,Cancelo,6.4
+19/05/2024,Sergi,Roberto,5.4
+19/05/2024,İ.,Gündoğan,7.7
+19/05/2024,Lamine,Yamal,7.3
+19/05/2024,Fermín,López,5.7
+19/05/2024,Raphinha,Raphinha,5.8
+19/05/2024,R.,Lewandowski,7.4
+16/05/2024,M.,ter Stegen,7.1
+16/05/2024,Héctor,Fort,7
+16/05/2024,Iñigo,Martínez,7.3
+16/05/2024,Pau,Cubarsí,6.3
+16/05/2024,J.,Koundé,7.2
+16/05/2024,Pedri,Pedri,6.4
+16/05/2024,Sergi,Roberto,7.4
+16/05/2024,Fermín,López,8.5
+16/05/2024,Ferran,Torres,6
+16/05/2024,R.,Lewandowski,6.1
+16/05/2024,Lamine,Yamal,7.3
+13/05/2024,M.,ter Stegen,7.1
+13/05/2024,J.,Koundé,6.8
+13/05/2024,Pau,Cubarsí,6.4
+13/05/2024,Iñigo,Martínez,6.2
+13/05/2024,João,Cancelo,6.3
+13/05/2024,İ.,Gündoğan,6.9
+13/05/2024,A.,Christensen,5.5
+13/05/2024,Pedri,Pedri,7.1
+13/05/2024,Lamine,Yamal,8.1
+13/05/2024,R.,Lewandowski,6.4
+13/05/2024,Raphinha,Raphinha,7.4
+04/05/2024,M.,ter Stegen,4.5
+04/05/2024,João,Cancelo,6.6
+04/05/2024,Pau,Cubarsí,5.2
+04/05/2024,R.,Araujo,4.6
+04/05/2024,J.,Koundé,5
+04/05/2024,Sergi,Roberto,3.9
+04/05/2024,A.,Christensen,7.4
+04/05/2024,İ.,Gündoğan,5.9
+04/05/2024,Fermín,López,4.9
+04/05/2024,R.,Lewandowski,5.4
+04/05/2024,Lamine,Yamal,7.5
+29/04/2024,M.,ter Stegen,4.2
+29/04/2024,J.,Koundé,7.2
+29/04/2024,R.,Araujo,8.2
+29/04/2024,Pau,Cubarsí,5.5
+29/04/2024,João,Cancelo,6.2
+29/04/2024,İ.,Gündoğan,7.8
+29/04/2024,A.,Christensen,4.9
+29/04/2024,Fermín,López,6.4
+29/04/2024,Lamine,Yamal,6.2
+29/04/2024,R.,Lewandowski,9.1
+29/04/2024,Raphinha,Raphinha,7
+21/04/2024,M.,ter Stegen,6.4
+21/04/2024,João,Cancelo,5.2
+21/04/2024,Pau,Cubarsí,4.2
+21/04/2024,R.,Araujo,5.8
+21/04/2024,J.,Koundé,5.3
+21/04/2024,F.,de Jong,5
+21/04/2024,A.,Christensen,6.2
+21/04/2024,İ.,Gündoğan,5.7
+21/04/2024,Raphinha,Raphinha,6.1
+21/04/2024,R.,Lewandowski,4.4
+21/04/2024,Lamine,Yamal,6.1
+16/04/2024,M.,ter Stegen,6.1
+16/04/2024,J.,Koundé,4.2
+16/04/2024,R.,Araujo,4.1
+16/04/2024,Pau,Cubarsí,5.4
+16/04/2024,João,Cancelo,4.7
+16/04/2024,Pedri,Pedri,5.1
+16/04/2024,İ.,Gündoğan,2.8
+16/04/2024,F.,de Jong,4
+16/04/2024,Lamine,Yamal,6.2
+16/04/2024,R.,Lewandowski,5.6
+16/04/2024,Raphinha,Raphinha,6.4
+13/04/2024,M.,ter Stegen,6.8
+13/04/2024,Marcos,Alonso,6.1
+13/04/2024,A.,Christensen,5.4
+13/04/2024,Pau,Cubarsí,6.1
+13/04/2024,Héctor,Fort,6.1
+13/04/2024,Sergi,Roberto,6.4
+13/04/2024,Oriol,Romeu,6.2
+13/04/2024,Fermín,López,5.6
+13/04/2024,João,Félix,7
+13/04/2024,Vitor,Roque,5
+13/04/2024,Ferran,Torres,6.3
+10/04/2024,M.,ter Stegen,6.1
+10/04/2024,João,Cancelo,6
+10/04/2024,Pau,Cubarsí,5.2
+10/04/2024,R.,Araujo,5.6
+10/04/2024,J.,Koundé,6.6
+10/04/2024,F.,de Jong,5.8
+10/04/2024,Sergi,Roberto,5.6
+10/04/2024,İ.,Gündoğan,6.8
+10/04/2024,Raphinha,Raphinha,8.4
+10/04/2024,R.,Lewandowski,6.1
+10/04/2024,Lamine,Yamal,7
+30/03/2024,M.,ter Stegen,6
+30/03/2024,J.,Koundé,7.3
+30/03/2024,Pau,Cubarsí,7.1
+30/03/2024,Iñigo,Martínez,7.2
+30/03/2024,João,Cancelo,6.4
+30/03/2024,Fermín,López,5
+30/03/2024,İ.,Gündoğan,6.4
+30/03/2024,Sergi,Roberto,6.1
+30/03/2024,Lamine,Yamal,5.1
+30/03/2024,R.,Lewandowski,5.4
+30/03/2024,Raphinha,Raphinha,7.7
+17/03/2024,M.,ter Stegen,6.9
+17/03/2024,Héctor,Fort,6.1
+17/03/2024,Pau,Cubarsí,7.4
+17/03/2024,R.,Araujo,7.5
+17/03/2024,J.,Koundé,7
+17/03/2024,Sergi,Roberto,6.2
+17/03/2024,İ.,Gündoğan,7.1
+17/03/2024,Fermín,López,7
+17/03/2024,João,Félix,7.2
+17/03/2024,R.,Lewandowski,8.6
+17/03/2024,Raphinha,Raphinha,6.1
+12/03/2024,M.,ter Stegen,6.2
+12/03/2024,J.,Koundé,6.2
+12/03/2024,R.,Araujo,7
+12/03/2024,Pau,Cubarsí,7.6
+12/03/2024,João,Cancelo,7.4
+12/03/2024,Fermín,López,6.8
+12/03/2024,A.,Christensen,5.4
+12/03/2024,İ.,Gündoğan,7.4
+12/03/2024,Lamine,Yamal,6.8
+12/03/2024,R.,Lewandowski,7.6
+12/03/2024,Raphinha,Raphinha,8.4
+08/03/2024,M.,ter Stegen,6.5
+08/03/2024,J.,Koundé,7
+08/03/2024,Pau,Cubarsí,5.9
+08/03/2024,Iñigo,Martínez,6.4
+08/03/2024,João,Cancelo,6.9
+08/03/2024,Raphinha,Raphinha,6.3
+08/03/2024,A.,Christensen,6.4
+08/03/2024,İ.,Gündoğan,7
+08/03/2024,Lamine,Yamal,7.6
+08/03/2024,Marc,Guiu,5.9
+08/03/2024,João,Félix,5.5
+03/03/2024,M.,ter Stegen,6.2
+03/03/2024,João,Cancelo,7.1
+03/03/2024,R.,Araujo,5.1
+03/03/2024,Pau,Cubarsí,5.6
+03/03/2024,J.,Koundé,6.4
+03/03/2024,F.,de Jong,5.3
+03/03/2024,A.,Christensen,4.9
+03/03/2024,İ.,Gündoğan,6.7
+03/03/2024,Pedri,Pedri,4.5
+03/03/2024,R.,Lewandowski,5.7
+03/03/2024,Raphinha,Raphinha,5.2
+24/02/2024,M.,ter Stegen,7.9
+24/02/2024,J.,Koundé,7.4
+24/02/2024,R.,Araujo,6.7
+24/02/2024,Pau,Cubarsí,7.3
+24/02/2024,João,Cancelo,7
+24/02/2024,F.,de Jong,8.7
+24/02/2024,A.,Christensen,8
+24/02/2024,İ.,Gündoğan,6.7
+24/02/2024,Raphinha,Raphinha,8.2
+24/02/2024,R.,Lewandowski,6.3
+24/02/2024,João,Félix,7.1
+21/02/2024,M.,ter Stegen,4.5
+21/02/2024,João,Cancelo,6.6
+21/02/2024,Iñigo,Martínez,5.6
+21/02/2024,R.,Araujo,6.4
+21/02/2024,J.,Koundé,6.1
+21/02/2024,F.,de Jong,6.1
+21/02/2024,A.,Christensen,5.2
+21/02/2024,İ.,Gündoğan,6.6
+21/02/2024,Pedri,Pedri,7
+21/02/2024,R.,Lewandowski,7.1
+21/02/2024,Lamine,Yamal,6
+17/02/2024,M.,ter Stegen,6
+17/02/2024,João,Cancelo,6.8
+17/02/2024,Pau,Cubarsí,6.1
+17/02/2024,R.,Araujo,6.1
+17/02/2024,J.,Koundé,5.5
+17/02/2024,Pedri,Pedri,5.7
+17/02/2024,A.,Christensen,5.6
+17/02/2024,F.,de Jong,6.6
+17/02/2024,Vitor,Roque,4.7
+17/02/2024,R.,Lewandowski,7.5
+17/02/2024,Lamine,Yamal,7.3
+11/02/2024,M.,ter Stegen,5.7
+11/02/2024,J.,Koundé,5.6
+11/02/2024,Pau,Cubarsí,6
+11/02/2024,Iñigo,Martínez,6.5
+11/02/2024,João,Cancelo,5.8
+11/02/2024,F.,de Jong,4.9
+11/02/2024,A.,Christensen,5.9
+11/02/2024,İ.,Gündoğan,6.4
+11/02/2024,Lamine,Yamal,8
+11/02/2024,R.,Lewandowski,7.1
+11/02/2024,Pedri,Pedri,5.8
+03/02/2024,Iñaki,Peña,6
+03/02/2024,João,Cancelo,6.4
+03/02/2024,Pau,Cubarsí,6
+03/02/2024,R.,Araujo,6.8
+03/02/2024,J.,Koundé,6.8
+03/02/2024,İ.,Gündoğan,8.3
+03/02/2024,A.,Christensen,6
+03/02/2024,F.,de Jong,8.1
+03/02/2024,Pedri,Pedri,7
+03/02/2024,R.,Lewandowski,7.9
+03/02/2024,Lamine,Yamal,6.8
+31/01/2024,Iñaki,Peña,6.2
+31/01/2024,J.,Koundé,6.7
+31/01/2024,R.,Araujo,6.3
+31/01/2024,Pau,Cubarsí,6
+31/01/2024,João,Cancelo,7.1
+31/01/2024,İ.,Gündoğan,6.2
+31/01/2024,Pedri,Pedri,6.1
+31/01/2024,F.,de Jong,7.4
+31/01/2024,Lamine,Yamal,7
+31/01/2024,R.,Lewandowski,6.3
+31/01/2024,Ferran,Torres,4.2
+27/01/2024,Iñaki,Peña,4.2
+27/01/2024,J.,Koundé,5.5
+27/01/2024,R.,Araujo,4.5
+27/01/2024,A.,Christensen,5.7
+27/01/2024,Héctor,Fort,4.8
+27/01/2024,İ.,Gündoğan,8.1
+27/01/2024,Oriol,Romeu,4.9
+27/01/2024,F.,de Jong,5.8
+27/01/2024,Lamine,Yamal,7.3
+27/01/2024,R.,Lewandowski,5.1
+27/01/2024,João,Félix,5.1
+24/01/2024,Iñaki,Peña,
+24/01/2024,Baldé,Baldé,
+24/01/2024,A.,Christensen,
+24/01/2024,R.,Araujo,
+24/01/2024,J.,Koundé,
+24/01/2024,Pedri,Pedri,
+24/01/2024,F.,de Jong,
+24/01/2024,İ.,Gündoğan,
+24/01/2024,Ferran,Torres,
+24/01/2024,R.,Lewandowski,
+24/01/2024,Lamine,Yamal,
+21/01/2024,Iñaki,Peña,6.4
+21/01/2024,Baldé,Baldé,5.7
+21/01/2024,Pau,Cubarsí,6.2
+21/01/2024,R.,Araujo,6.3
+21/01/2024,J.,Koundé,6.1
+21/01/2024,Pedri,Pedri,6.3
+21/01/2024,İ.,Gündoğan,6.3
+21/01/2024,F.,de Jong,8
+21/01/2024,Ferran,Torres,9.3
+21/01/2024,R.,Lewandowski,5.2
+21/01/2024,Lamine,Yamal,8.4
+18/01/2024,Iñaki,Peña,
+18/01/2024,Baldé,Baldé,
+18/01/2024,A.,Christensen,
+18/01/2024,J.,Koundé,
+18/01/2024,Sergi,Roberto,
+18/01/2024,F.,de Jong,
+18/01/2024,Oriol,Romeu,
+18/01/2024,Fermín,López,
+18/01/2024,João,Félix,
+18/01/2024,Marc,Guiu,
+18/01/2024,Ferran,Torres,
+07/01/2024,Iñaki,Peña,
+07/01/2024,Héctor,Fort,
+07/01/2024,A.,Christensen,
+07/01/2024,R.,Araujo,
+07/01/2024,J.,Koundé,
+07/01/2024,F.,de Jong,
+07/01/2024,Oriol,Romeu,
+07/01/2024,Fermín,López,
+07/01/2024,João,Félix,
+07/01/2024,Ferran,Torres,
+07/01/2024,Raphinha,Raphinha,
+04/01/2024,Iñaki,Peña,6.1
+04/01/2024,Baldé,Baldé,6
+04/01/2024,J.,Koundé,6.5
+04/01/2024,R.,Araujo,6.1
+04/01/2024,João,Cancelo,5.3
+04/01/2024,Sergi,Roberto,6.2
+04/01/2024,İ.,Gündoğan,7.6
+04/01/2024,F.,de Jong,8.1
+04/01/2024,Ferran,Torres,6.7
+04/01/2024,R.,Lewandowski,5.7
+04/01/2024,Raphinha,Raphinha,5.3
+22/12/2023,L.,Malagón,
+22/12/2023,S.,Reyes,
+22/12/2023,R.,Juárez,
+22/12/2023,I.,Reyes,
+22/12/2023,K.,Álvarez,
+22/12/2023,R.,Sánchez,
+22/12/2023,J.,dos Santos,
+22/12/2023,J.,Rodríguez,
+22/12/2023,L.,Suárez,
+22/12/2023,Á.,Zendejas,
+22/12/2023,J.,Quiñones,
+20/12/2023,Iñaki,Peña,4.5
+20/12/2023,João,Cancelo,7.1
+20/12/2023,R.,Araujo,6.7
+20/12/2023,A.,Christensen,5.9
+20/12/2023,Baldé,Baldé,6.4
+20/12/2023,Fermín,López,4.7
+20/12/2023,İ.,Gündoğan,6.3
+20/12/2023,Sergi,Roberto,8.4
+20/12/2023,Raphinha,Raphinha,8
+20/12/2023,R.,Lewandowski,7.9
+20/12/2023,João,Félix,5.2
+16/12/2023,Iñaki,Peña,6.3
+16/12/2023,Baldé,Baldé,6.3
+16/12/2023,J.,Koundé,6.4
+16/12/2023,R.,Araujo,7.2
+16/12/2023,João,Cancelo,6.8
+16/12/2023,Pedri,Pedri,6.4
+16/12/2023,F.,de Jong,6.7
+16/12/2023,İ.,Gündoğan,5.3
+16/12/2023,João,Félix,7.2
+16/12/2023,R.,Lewandowski,5.6
+16/12/2023,Raphinha,Raphinha,7.2
+13/12/2023,Iñaki,Peña,5.5
+13/12/2023,Baldé,Baldé,6.5
+13/12/2023,A.,Christensen,7.2
+13/12/2023,J.,Koundé,5.8
+13/12/2023,Héctor,Fort,5
+13/12/2023,Sergi,Roberto,4.9
+13/12/2023,Oriol,Romeu,2.5
+13/12/2023,Fermín,López,5.3
+13/12/2023,Ferran,Torres,6.6
+13/12/2023,R.,Lewandowski,4.3
+13/12/2023,Lamine,Yamal,6.6
+10/12/2023,Iñaki,Peña,5.2
+10/12/2023,J.,Koundé,5.2
+10/12/2023,R.,Araujo,4.3
+10/12/2023,A.,Christensen,6
+10/12/2023,João,Cancelo,6
+10/12/2023,Pedri,Pedri,6.2
+10/12/2023,F.,de Jong,6.8
+10/12/2023,İ.,Gündoğan,8.1
+10/12/2023,Raphinha,Raphinha,6.2
+10/12/2023,R.,Lewandowski,6.9
+10/12/2023,João,Félix,5.6
+03/12/2023,Iñaki,Peña,7.1
+03/12/2023,J.,Koundé,6.6
+03/12/2023,R.,Araujo,6.7
+03/12/2023,A.,Christensen,6.7
+03/12/2023,João,Cancelo,6.3
+03/12/2023,F.,de Jong,7.1
+03/12/2023,İ.,Gündoğan,8
+03/12/2023,Pedri,Pedri,6.4
+03/12/2023,Raphinha,Raphinha,7.2
+03/12/2023,R.,Lewandowski,6
+03/12/2023,João,Félix,7.4
+28/11/2023,Iñaki,Peña,7.3
+28/11/2023,R.,Araujo,6.1
+28/11/2023,J.,Koundé,5.8
+28/11/2023,Iñigo,Martínez,6.1
+28/11/2023,João,Cancelo,8.5
+28/11/2023,Pedri,Pedri,6
+28/11/2023,İ.,Gündoğan,5.8
+28/11/2023,F.,de Jong,6.4
+28/11/2023,Raphinha,Raphinha,7.4
+28/11/2023,R.,Lewandowski,5.2
+28/11/2023,João,Félix,7.2
+25/11/2023,Iñaki,Peña,6.6
+25/11/2023,Baldé,Baldé,5.4
+25/11/2023,Iñigo,Martínez,7.2
+25/11/2023,A.,Christensen,6.7
+25/11/2023,João,Cancelo,6.8
+25/11/2023,F.,de Jong,5.2
+25/11/2023,Oriol,Romeu,5.9
+25/11/2023,Ferran,Torres,5
+25/11/2023,Pedri,Pedri,6.1
+25/11/2023,Lamine,Yamal,6.4
+25/11/2023,R.,Lewandowski,6.9
+12/11/2023,M.,ter Stegen,5.2
+12/11/2023,R.,Araujo,6.5
+12/11/2023,J.,Koundé,7
+12/11/2023,Iñigo,Martínez,6.5
+12/11/2023,João,Cancelo,7
+12/11/2023,İ.,Gündoğan,8.3
+12/11/2023,Pedri,Pedri,7.3
+12/11/2023,Lamine,Yamal,5.8
+12/11/2023,Fermín,López,5.2
+12/11/2023,João,Félix,6.1
+12/11/2023,R.,Lewandowski,7.1
+07/11/2023,M.,ter Stegen,6
+07/11/2023,Marcos,Alonso,5.3
+07/11/2023,A.,Christensen,7.4
+07/11/2023,R.,Araujo,7.3
+07/11/2023,João,Cancelo,7.2
+07/11/2023,Gavi,Gavi,5.2
+07/11/2023,Oriol,Romeu,5.4
+07/11/2023,İ.,Gündoğan,7
+07/11/2023,Ferran,Torres,4
+07/11/2023,R.,Lewandowski,5.1
+07/11/2023,Raphinha,Raphinha,3.8
+04/11/2023,M.,ter Stegen,8.6
+04/11/2023,Iñigo,Martínez,6.2
+04/11/2023,J.,Koundé,6.3
+04/11/2023,R.,Araujo,7.7
+04/11/2023,Baldé,Baldé,6.3
+04/11/2023,İ.,Gündoğan,7.5
+04/11/2023,Gavi,Gavi,6
+04/11/2023,João,Cancelo,5
+04/11/2023,Fermín,López,5.3
+04/11/2023,João,Félix,5.8
+04/11/2023,R.,Lewandowski,5
+28/10/2023,M.,ter Stegen,6.1
+28/10/2023,R.,Araujo,4.9
+28/10/2023,A.,Christensen,5.9
+28/10/2023,Iñigo,Martínez,6
+28/10/2023,João,Cancelo,4.6
+28/10/2023,Gavi,Gavi,6.1
+28/10/2023,İ.,Gündoğan,6
+28/10/2023,Baldé,Baldé,4.6
+28/10/2023,Fermín,López,5.3
+28/10/2023,Ferran,Torres,4.3
+28/10/2023,João,Félix,5.5
+25/10/2023,M.,ter Stegen,5.2
+25/10/2023,João,Cancelo,6.2
+25/10/2023,R.,Araujo,5.6
+25/10/2023,Iñigo,Martínez,5.9
+25/10/2023,Marcos,Alonso,5.4
+25/10/2023,Fermín,López,8
+25/10/2023,Oriol,Romeu,7
+25/10/2023,İ.,Gündoğan,6.9
+25/10/2023,Lamine,Yamal,6.1
+25/10/2023,Ferran,Torres,7.2
+25/10/2023,João,Félix,5.7
+22/10/2023,M.,ter Stegen,7
+22/10/2023,João,Cancelo,6.8
+22/10/2023,A.,Christensen,5.5
+22/10/2023,Iñigo,Martínez,6.1
+22/10/2023,Baldé,Baldé,5.6
+22/10/2023,Gavi,Gavi,6.4
+22/10/2023,Oriol,Romeu,5.2
+22/10/2023,İ.,Gündoğan,6.3
+22/10/2023,Ferran,Torres,5.5
+22/10/2023,João,Félix,7.8
+22/10/2023,Fermín,López,5.5
+08/10/2023,M.,ter Stegen,4.5
+08/10/2023,Baldé,Baldé,7.5
+08/10/2023,A.,Christensen,7.5
+08/10/2023,J.,Koundé,5.7
+08/10/2023,João,Cancelo,6.4
+08/10/2023,Gavi,Gavi,6.4
+08/10/2023,İ.,Gündoğan,6
+08/10/2023,Fermín,López,5.2
+08/10/2023,João,Félix,7
+08/10/2023,Ferran,Torres,5.3
+08/10/2023,Lamine,Yamal,6.9
+04/10/2023,M.,ter Stegen,8.1
+04/10/2023,Baldé,Baldé,7.2
+04/10/2023,J.,Koundé,7.6
+04/10/2023,R.,Araujo,6.8
+04/10/2023,João,Cancelo,6.4
+04/10/2023,Gavi,Gavi,6.2
+04/10/2023,Oriol,Romeu,5.4
+04/10/2023,İ.,Gündoğan,7.7
+04/10/2023,João,Félix,6.3
+04/10/2023,R.,Lewandowski,4.4
+04/10/2023,Lamine,Yamal,6.3
+29/09/2023,M.,ter Stegen,7.2
+29/09/2023,João,Cancelo,7.7
+29/09/2023,J.,Koundé,7.1
+29/09/2023,A.,Christensen,6.3
+29/09/2023,Baldé,Baldé,5.7
+29/09/2023,Raphinha,Raphinha,4.8
+29/09/2023,Gavi,Gavi,6.4
+29/09/2023,İ.,Gündoğan,6.8
+29/09/2023,Lamine,Yamal,7
+29/09/2023,R.,Lewandowski,6.2
+29/09/2023,João,Félix,6.2
+26/09/2023,M.,ter Stegen,4.2
+26/09/2023,Baldé,Baldé,5.3
+26/09/2023,Iñigo,Martínez,5.9
+26/09/2023,R.,Araujo,6.4
+26/09/2023,João,Cancelo,5.3
+26/09/2023,Gavi,Gavi,6.8
+26/09/2023,Oriol,Romeu,5
+26/09/2023,İ.,Gündoğan,5.4
+26/09/2023,João,Félix,5.4
+26/09/2023,Ferran,Torres,5.5
+26/09/2023,Raphinha,Raphinha,8
+23/09/2023,M.,ter Stegen,7.2
+23/09/2023,João,Cancelo,8.3
+23/09/2023,J.,Koundé,7.9
+23/09/2023,A.,Christensen,5.1
+23/09/2023,Marcos,Alonso,6.2
+23/09/2023,İ.,Gündoğan,6.2
+23/09/2023,Oriol,Romeu,6
+23/09/2023,F.,de Jong,5.7
+23/09/2023,Ferran,Torres,5.2
+23/09/2023,R.,Lewandowski,7.8
+23/09/2023,João,Félix,6.6
+19/09/2023,M.,ter Stegen,6.3
+19/09/2023,João,Cancelo,7.4
+19/09/2023,J.,Koundé,8.1
+19/09/2023,A.,Christensen,7.7
+19/09/2023,Baldé,Baldé,7
+19/09/2023,İ.,Gündoğan,8.4
+19/09/2023,F.,de Jong,6.4
+19/09/2023,Gavi,Gavi,7.4
+19/09/2023,Raphinha,Raphinha,8.4
+19/09/2023,R.,Lewandowski,7.8
+19/09/2023,João,Félix,8.8
+16/09/2023,M.,ter Stegen,7
+16/09/2023,João,Cancelo,8
+16/09/2023,J.,Koundé,7.5
+16/09/2023,A.,Christensen,7.4
+16/09/2023,Baldé,Baldé,6.7
+16/09/2023,Gavi,Gavi,7
+16/09/2023,Oriol,Romeu,7.4
+16/09/2023,F.,de Jong,8.1
+16/09/2023,Ferran,Torres,7.2
+16/09/2023,R.,Lewandowski,8.6
+16/09/2023,João,Félix,7.3
+03/09/2023,M.,ter Stegen,6.2
+03/09/2023,Baldé,Baldé,5.7
+03/09/2023,A.,Christensen,7.6
+03/09/2023,J.,Koundé,8.3
+03/09/2023,Sergi,Roberto,5.6
+03/09/2023,İ.,Gündoğan,8
+03/09/2023,Oriol,Romeu,6
+03/09/2023,F.,de Jong,7.3
+03/09/2023,Gavi,Gavi,6
+03/09/2023,R.,Lewandowski,6.1
+03/09/2023,Lamine,Yamal,5.6
+27/08/2023,M.,ter Stegen,6
+27/08/2023,Marcos,Alonso,7.2
+27/08/2023,A.,Christensen,5.5
+27/08/2023,J.,Koundé,6
+27/08/2023,Sergi,Roberto,5.5
+27/08/2023,F.,de Jong,8.3
+27/08/2023,Oriol,Romeu,6
+27/08/2023,İ.,Gündoğan,5.8
+27/08/2023,Gavi,Gavi,6.8
+27/08/2023,R.,Lewandowski,7.4
+27/08/2023,Lamine,Yamal,8.1
+20/08/2023,M.,ter Stegen,6.2
+20/08/2023,J.,Koundé,8.2
+20/08/2023,A.,Christensen,6.1
+20/08/2023,F.,de Jong,8.5
+20/08/2023,Lamine,Yamal,6.4
+20/08/2023,Oriol,Romeu,7.4
+20/08/2023,İ.,Gündoğan,8.8
+20/08/2023,Baldé,Baldé,5.9
+20/08/2023,Gavi,Gavi,6.2
+20/08/2023,Pedri,Pedri,8
+20/08/2023,R.,Lewandowski,7
+13/08/2023,M.,ter Stegen,6.4
+13/08/2023,Baldé,Baldé,6.5
+13/08/2023,A.,Christensen,6.1
+13/08/2023,J.,Koundé,8.4
+13/08/2023,R.,Araujo,7
+13/08/2023,F.,de Jong,7.8
+13/08/2023,Oriol,Romeu,6
+13/08/2023,İ.,Gündoğan,5.6
+13/08/2023,Pedri,Pedri,6.5
+13/08/2023,Raphinha,Raphinha,4.9
+13/08/2023,R.,Lewandowski,5.2
