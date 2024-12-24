@@ -91,4 +91,7 @@ The data for this project was scraped from the following websites:
 - [OpenWeather](https://openweathermap.org/api)  
 - [FBREF](https://fbref.com/en/)  
 - [Transfermrkt](https://www.transfermarkt.fr/) 
-- [FOOTMERCATO](https://www.footmercato.net/) 
+- [FOOTMERCATO](https://www.footmercato.net/)
+
+## Disclaimer  
+This project is purely educational and is not intended for commercial use.
